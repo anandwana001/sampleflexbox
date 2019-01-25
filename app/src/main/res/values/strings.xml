@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleFlexbox</string>
+    <string name="string_enter_number">enter number</string>
+    <string name="string_show_flex">show Flexbox Layout</string>
+</resources>
