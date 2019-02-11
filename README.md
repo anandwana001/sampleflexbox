@@ -1,4 +1,4 @@
-# sampleflexbox
+# sampleflexbox  [![MindOrks](https://img.shields.io/badge/MindOrks-Akshay%20Nandwana-%2311209F.svg)](https://blog.mindorks.com/play-with-flexbox-layout-for-android)
 
 Exploring [flexbox layout library](https://github.com/google/flexbox-layout) by Google. This repository is a part of an article written at [MindOrks Blog](https://blog.mindorks.com/play-with-flexbox-layout-for-android). 
 
